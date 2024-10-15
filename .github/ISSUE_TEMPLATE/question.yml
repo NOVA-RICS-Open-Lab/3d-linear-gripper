@@ -1,23 +1,23 @@
 # NOVA RICS Open Lab 🧊, MIT license
 
 name: ❓ Question
-description: Ask a question about the Open Modular Controller Project
+description: Ask a question about the 3D Linear Gripper Project
 # title: " "
 labels: [question]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for asking a Open Modular Controller ❓ Question!
+        Thank you for asking a 3D Linear Gripper ❓ Question!
 
   - type: checkboxes
     attributes:
       label: Search before asking
       description: >
-        Please search the [issues](https://github.com/NOVA-RICS-Open-Lab/open-modular-controller/issues) and [discussions](https://github.com/NOVA-RICS-Open-Lab/open-modular-controller/discussions) to see if a similar question already exists.
+        Please search the [issues](https://github.com/NOVA-RICS-Open-Lab/3d-linear-gripper/issues) and [discussions](https://github.com/NOVA-RICS-Open-Lab/3d-linear-gripper/discussions) to see if a similar question already exists.
       options:
         - label: >
-            I have searched the YOLOv5 [issues](https://github.com/NOVA-RICS-Open-Lab/open-modular-controller/issues) and [discussions](https://github.com/NOVA-RICS-Open-Lab/open-modular-controller/discussions) and found no similar questions.
+            I have searched the 3D Linear Gripper [issues](https://github.com/NOVA-RICS-Open-Lab/3d-linear-gripper/issues) and [discussions](https://github.com/NOVA-RICS-Open-Lab/3d-linear-gripper/discussions) and found no similar questions.
           required: true
 
   - type: textarea
