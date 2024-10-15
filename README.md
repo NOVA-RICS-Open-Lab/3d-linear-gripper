@@ -28,7 +28,11 @@ Este repositório contém todos os ficheiros mecânicos, que são de codigo aber
 O software da gripper tambem é de codigo aberto, permitindo a costumização de velocidades, acelecações e diametros de abertura.
 A pinça possui um curso de 58mm e uma massa de 500g
 
-
+## How to build
+  - Source all the parts from the bill of materials
+  - Follow Gripper Assembly Instructions to assemble your gripper
+  - Follow Controller Assembly Instructions to assemble your controller
+  - Follow Software to get your gripper up and running.
 ### Usage instructions
 ...
 
@@ -43,9 +47,9 @@ A pinça possui um curso de 58mm e uma massa de 500g
 └── tests               # tests
 ```
 ## Documentation
-  - Gripper Building Instructions
-  - Controller Building Instructions
-  - Build of Material
+  - Gripper Assembly Instructions
+  - Controller Assembly Instructions
+  - Bill of Materials
   - Software
 ## Features
 
