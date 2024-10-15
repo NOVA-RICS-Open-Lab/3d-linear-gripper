@@ -30,7 +30,7 @@ Lisbon, 2829-516 Lisbon, Portugal
 
 ### Code Structure
 ```
-open-modular-controller         
+3d-linear-gripper        
 ├── docs                # documentation
 │   └── ...
 ├── imgs                # images
