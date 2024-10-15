@@ -23,7 +23,7 @@ Lisbon, 2829-516 Lisbon, Portugal
 </div>
 
 ## Get Started
-Bem-vindo ao repositorio [3d-linear-gripper](https://github.com/NOVA-RICS-Open-Lab/3d-linear-gripper/blob/main/README.md) ! A 3d Linear Gripper é uma gripper eletrica baseada em contoladores Arduino ESP32. É uma pinça capaz de controlar a sua abertura, velocidade e aceleração, tornando-a perfeita para tarefas de pick-and-place e montagem. A força maxima de 40N (~= 4kg), permite-lhe agarrar em uma vasta gama de objetos.
+Bem-vindo ao repositorio [3d-linear-gripper](https://github.com/NOVA-RICS-Open-Lab/3d-linear-gripper/blob/main/README.md) ! A 3d Linear Gripper é uma gripper impressa em 3D eletrica, baseada em contoladores Arduino ESP32. É uma gripper capaz de controlar a sua abertura, velocidade e aceleração, tornando-a perfeita para tarefas de pick-and-place e montagem. A sua força maxima de 40N (~= 4kg), permite-lhe agarrar em uma vasta gama de objetos.
 Este repositório contém todos os ficheiros mecânicos, que são de codigo aberto. Isto permite o desenvolvimento de base mounts e ferramentas de pressao (pinças) personalizados permitindo a sua ligação a qualquer braço robotico ou robô, bem como a adaptação a diversos casos. 
 O software da gripper tambem é de codigo aberto, permitindo a costumização de velocidades, acelecações e diametros de abertura.
 A pinça possui um curso de 58mm e uma massa de 500g
