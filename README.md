@@ -43,7 +43,10 @@ A pinça possui um curso de 58mm e uma massa de 500g
 └── tests               # tests
 ```
 ## Documentation
-
+  - Gripper Building Instructions
+  - Controller Building Instructions
+  - Build of Material
+  - Software
 ## Features
 
 ## Contribution Guidelines
