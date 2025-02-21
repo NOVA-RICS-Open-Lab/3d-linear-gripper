@@ -15,7 +15,6 @@ Lisbon, 2829-516 Lisbon, Portugal
       A 3D Linear Gripper é uma gripper impressa em 3D eletrica, baseada em contoladores Arduino ESP32. É uma gripper capaz de controlar a sua abertura, velocidade e aceleração, tornando-a perfeita para tarefas de pick-and-place e montagem. A sua força maxima de 40N (~= 4kg), permite-lhe agarrar em uma vasta gama de objetos.
 Este repositório contém todos os ficheiros mecânicos, que são de codigo aberto. Isto permite o desenvolvimento de base mounts e ferramentas de pressao (pinças) personalizados permitindo a sua ligação a qualquer braço robotico ou robô, bem como a adaptação a diversos casos. 
 O software da gripper tambem é de codigo aberto, permitindo a costumização de velocidades, acelecações e diametros de abertura.
-A pinça possui um curso de 58mm e uma massa de 500g
     </td>
     <td style="vertical-align: top;">
       <img style="width: 1100px" src="imgs/gripper_isometric.png" alt="gripper" />
