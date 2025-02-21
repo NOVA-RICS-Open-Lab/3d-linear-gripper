@@ -18,7 +18,7 @@ O software da gripper tambem é de codigo aberto, permitindo a costumização de
 A pinça possui um curso de 58mm e uma massa de 500g
     </td>
     <td style="vertical-align: top;">
-      <img style="width: 1100px" src="imgs/gripper_isometric.png" alt="gripper" width: 2000px" />
+      <img style="width: 1100px" src="imgs/gripper_isometric.png" alt="gripper" width: 200px" />
     </td>
   </tr>
 </table>
